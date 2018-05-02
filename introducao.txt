@@ -1,0 +1,17 @@
+        Introdução
+
+M - Model
+V - View
+C - Controller
+
+ MODEL: Vai conter todas as classes das regras de neogcio,  onde
+ tratamos os dados da aplicação.
+
+ VIEW: Parte visual da aplicação.
+
+ CONTROLLER: Vai controlar toda essa aplicação.
+
+
+ www.app.com/home
+
+Controller -> Acation(Model) -> View
